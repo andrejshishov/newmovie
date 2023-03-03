@@ -1,1 +1,1 @@
-https://test2602ma.vercel.app/
+https://newmovie-omega.vercel.app/
